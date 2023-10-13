@@ -11,6 +11,7 @@ html{
   text-decoration: none;
   list-style: none;
   font-family: "Poppins", sans-serif;
+
 }
 
 .background{
@@ -167,10 +168,10 @@ button:hover{
   display: flex;
   justify-content: space-between;
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 20px;
   border: solid 1px #0ff1d3;
   padding: 10px;
-  width: 700px;
+  width: 620px;
   border-radius: 8px;
 }
 
@@ -179,7 +180,7 @@ button:hover{
 }
 
 .inf-2 p{
-  padding: 15px;
+  padding: 10px;
 }
 
 .Container3{
